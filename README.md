@@ -1,4 +1,4 @@
-# TermDeposit
+# Term Deposit
 This data set is primarily used for Term Deposit Market Campaign by Bank
 
 Campaign Marketing wants to devise their strategy based on the outcomes.
