@@ -32,3 +32,18 @@ Input variables:
  
  Output variable (desired target):
  17 - y - has the client subscribed a term deposit? (binary: "yes","no")
+
+
+
+# Insights/Inference
+Age: Customers of greater age are more likely to subscribe for the term deposit. The data shows that the older the customer, the higher the probability of subscribing for the term deposit. This could be because older customers are more financially stable, have higher savings, or are more risk-averse and prefer safe investments like term deposits. Ages between 32-58 can be an ideal target group also since the numbers denote a decent account opening rate here.
+
+Account balance: Customers with greater account balance are more likely to subscribe for the term deposit. The data shows that customers with higher account balances are more likely to subscribe for the term deposit. This could be because customers with higher account balances have more disposable income and can afford to invest in term deposits, or because they are more financially savvy and understand the benefits of term deposits. Balance greater than 1509 should be targeted for a higher conversion rate.
+
+Number of contacts: The number of contacts with the customers really matters. Too many contacts with the customer could make them decline the offer. The data shows that customers who were contacted fewer times were more likely to subscribe for the term deposit, while those who were contacted too many times were less likely to subscribe. This suggests that there is a sweet spot for the number of contacts, and that too many contacts may be perceived as pushy or annoying, while too few may not be enough to persuade the customer to subscribe. Less than 4 contacts yields better results.
+
+Education: Customers with higher education levels are more likely to subscribe for the term deposit. The data shows that customers with tertiary education are more likely to subscribe for the term deposit, while those with lower education levels are less likely to subscribe. This could be because customers with higher education levels are more financially literate and understand the benefits of term deposits, or because they have higher-paying jobs and more disposable income.
+
+Job: Customers with certain job types are more likely to subscribe for the term deposit. The data shows that customers who are retired or students are more likely to subscribe for the term deposit, while those who are blue-collar or self-employed are less likely to subscribe. This could be because retired customers have more time and are looking for safe investments, while students may have some savings and are looking for safe places to invest them.
+
+These insights can help the bank improve its marketing strategy and target the right customers with the right offers, leading to higher subscription rates and better returns.
